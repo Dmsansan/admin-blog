@@ -1,0 +1,380 @@
+# Translation of Themes - WordStar in Chinese (China)
+# This file is distributed under the same license as the Themes - WordStar package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-16 07:00:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - WordStar\n"
+
+#. Theme Name of the theme
+#: footer.php:49
+msgid "WordStar"
+msgstr "WordStar"
+
+#. Description of the theme
+msgid "This theme is clean, blog-focused, and designed for clarity, with simple, straightforward typography that's readable on a wide variety of screen sizes, and suitable for multiple languages.This theme, like WordPress, is licensed under the GPL. Use it to make something cool, have fun, and share what you've learned with others."
+msgstr "这个主题整洁，以博客为中心，设计清晰简单，排版简约，可在各种各样的屏幕尺寸可读，适合多种语言。同样如WordPress一样基于GPL许可。使用它来做一些很酷的事，获得更多乐趣并与他人分享你学到的东西。"
+
+#: inc/funtions.php:313
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/funtions.php:309
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/funtions.php:305
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/funtions.php:301
+msgid "Github"
+msgstr "Github"
+
+#: inc/funtions.php:297
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/funtions.php:293
+msgid "LinkedIn"
+msgstr "领英"
+
+#: inc/funtions.php:289
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/funtions.php:285
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/funtions.php:281
+msgid "Facebook"
+msgstr "脸书"
+
+#: inc/funtions.php:277
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/filters.php:135
+msgid "Medium URL"
+msgstr "Medium 地址"
+
+#: inc/filters.php:134
+msgid "Tumblr URL"
+msgstr "Tumblr 地址"
+
+#: inc/filters.php:133
+msgid "Pinterest URL"
+msgstr "Pinterest 地址"
+
+#: inc/filters.php:132
+msgid "Github URL"
+msgstr "Github 地址"
+
+#: inc/filters.php:131
+msgid "Flickr URL"
+msgstr "Flickr 地址"
+
+#: inc/filters.php:130
+msgid "Google+ URL"
+msgstr "Google+ 地址"
+
+#: inc/filters.php:129
+msgid "Instagram URL"
+msgstr "Instagram 地址"
+
+#: inc/filters.php:128
+msgid "Facebook URL"
+msgstr "脸书 地址"
+
+#: inc/filters.php:127
+msgid "Twitter Username"
+msgstr "Twitter 用户名"
+
+#: 404.php:17
+msgid "Page Not Found"
+msgstr "找不到页面"
+
+#. Template Name of the theme
+msgid "Full Width"
+msgstr "占满宽度"
+
+#: inc/actions.php:75
+msgid "Create a custom Menu with your social profiles and add here as widget to appear in your sidebar."
+msgstr "使用您的社交个人资料创建自定义菜单，并将此处添加为小工具以显示在侧边栏中。"
+
+#: inc/actions.php:73
+msgid "Wordstar Social Widget Area"
+msgstr "WordStar社交小工具区"
+
+#: footer.php:48
+msgid "Proudly powered by WordPress"
+msgstr "由 WordPress 强力驱动"
+
+#: single.php:47
+msgid "Published in"
+msgstr "发表于"
+
+#: inc/funtions.php:162
+msgid "Leave a comment"
+msgstr "发表评论"
+
+#: inc/funtions.php:153
+msgid "Full size link:"
+msgstr "实际链接"
+
+#: inc/funtions.php:142
+msgid "Tags:"
+msgstr "标签："
+
+#: inc/funtions.php:133
+msgid "Categories:"
+msgstr "分类："
+
+#: inc/funtions.php:123
+msgid "Author:"
+msgstr "作者："
+
+#: inc/funtions.php:111
+msgid "Posted on:"
+msgstr "发表于："
+
+#: inc/funtions.php:104
+msgid "Format:"
+msgstr "格式："
+
+#: footer.php:50
+msgid "Theme by Linesh Jose"
+msgstr "主题由Linesh Jose提供"
+
+#: index.php:57 content.php:35 single.php:35
+msgid "Page:"
+msgstr "页码："
+
+#: content-none.php:22
+msgid "Get started here."
+msgstr "从这里开始。"
+
+#: content-none.php:22
+msgid "Ready to publish your first post? "
+msgstr "准备好发布您的第一篇文章？"
+
+#: inc/filters.php:175
+msgid "Subscribe"
+msgstr "订阅"
+
+#: inc/filters.php:175
+msgid "Subscribe this"
+msgstr "订阅"
+
+#: inc/filters.php:160
+msgid "Daily Archives"
+msgstr "每日归档"
+
+#: inc/filters.php:160
+msgid "F j, Y"
+msgstr "F j，Y"
+
+#: inc/filters.php:158
+msgid "Monthly Archives "
+msgstr "每月档案 "
+
+#: inc/filters.php:158
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/filters.php:156
+msgid "Yearly Archives"
+msgstr "年度档案"
+
+#: inc/filters.php:156
+msgid "Y"
+msgstr "Y"
+
+#: inc/filters.php:153
+msgid "Author"
+msgstr "作者"
+
+#: inc/filters.php:150
+msgid "Tag Archive"
+msgstr "标签存档"
+
+#: inc/filters.php:147
+msgid "Category"
+msgstr "类别"
+
+#: inc/filters.php:145
+msgid "Searching for:"
+msgstr "搜索："
+
+#: single.php:58
+msgid "Previous post:"
+msgstr "上一篇："
+
+#: single.php:57
+msgid "Previous"
+msgstr "前一页"
+
+#: single.php:55
+msgid "Next post:"
+msgstr "下一篇："
+
+#: single.php:54
+msgid "Next"
+msgstr "后一页"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "搜索"
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "搜索&hellip;"
+
+#: searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "搜索："
+
+#. translators: %s: Name of current post
+#: single.php:28 content-page.php:24
+msgid "Continue reading %s"
+msgstr "继续阅读 %s"
+
+#: index.php:58
+msgid "Pagination"
+msgstr "分页"
+
+#: index.php:56
+msgid "Next page"
+msgstr "下一页"
+
+#: index.php:55
+msgid "Previous page"
+msgstr "上一页"
+
+#. translators: %s: Search query
+#: index.php:40
+msgid "Searching for: \"%s\""
+msgstr "搜索：%s“。"
+
+#: index.php:31
+msgid "'s Posts"
+msgstr "的帖子"
+
+#: inc/funtions.php:317
+msgid "RSS Feed"
+msgstr "RSS订阅"
+
+#: inc/funtions.php:273
+msgid "Website"
+msgstr "站点"
+
+#: inc/funtions.php:84
+msgid "Featured"
+msgstr "特色"
+
+#: header.php:65
+msgid "Menu"
+msgstr "菜单"
+
+#: header.php:59 inc/filters.php:183
+msgid "Search"
+msgstr "搜索"
+
+#: header.php:51
+msgid "Skip to content"
+msgstr "跳转到内容"
+
+#: inc/actions.php:64
+msgid "Add widgets here to appear in your sidebar."
+msgstr "在此处添加小部件以显示在侧边栏中。"
+
+#: inc/actions.php:62
+msgid "Wordstar Widget Area"
+msgstr "WordStar小工具区域"
+
+#: inc/actions.php:51
+msgid "Footer Menu"
+msgstr "页脚菜单"
+
+#: header.php:67 inc/actions.php:50
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: inc/funtions.php:167
+msgid "Edit"
+msgstr "编辑"
+
+#: content-page.php:31
+msgid "Page"
+msgstr "页"
+
+#: content.php:31 single.php:31 content-page.php:27
+msgid "Pages:"
+msgstr "页数："
+
+#. translators: %s: Name of current post
+#: content.php:28 inc/filters.php:107
+msgid "Continue Reading %s"
+msgstr "继续阅读 %s"
+
+#: content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "看来我们不能找到你想要的东西，也许搜索可以有所帮助。"
+
+#: content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "很抱歉，没有任何符合您的搜寻字词。请使用一些不同的关键字再试一次。"
+
+#: content-none.php:17
+msgid "Nothing Found"
+msgstr "什么都没找到"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "评论被关闭。"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:28
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s 对 &ldquo;%2$s&rdquo;的想法；"
+
+#. translators: %s: post title
+#: comments.php:23
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "一个关于 &ldquo;%s&rdquo;的想法"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "看起来在这个位置找不到任何东西。您可以尝试搜索？"
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "有点尴尬诶！该页无法显示。"
+
+#: 404.php:21
+msgid "404"
+msgstr "404"
+
+#. Author of the theme
+msgid "Linesh Jose"
+msgstr "Linesh Jose"
+
+#. Theme URI of the theme
+msgid "http://linesh.com/projects/wordstar/"
+msgstr "http://linesh.com/projects/wordstar/"
+
+#. Author URI of the theme
+msgid "http://linesh.com/"
+msgstr "http://linesh.com/"
